@@ -12,5 +12,5 @@ Praime si testove tuka za branchovete
 Tuka pak nekvi testove pravime
 
 
-<<<<<<< HEAD
+bahmu mamata
 testvame si pak bashchoooooe
