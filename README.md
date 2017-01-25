@@ -12,4 +12,5 @@ Praime si testove tuka za branchovete
 Tuka pak nekvi testove pravime
 
 
-testvame si pak bashcheto
+<<<<<<< HEAD
+testvame si pak bashchoooooe
