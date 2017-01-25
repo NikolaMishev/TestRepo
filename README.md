@@ -12,4 +12,4 @@ Praime si testove tuka za branchovete
 Tuka pak nekvi testove pravime
 
 
-testvame si git bash-a
+testvame si pak bashcheto
