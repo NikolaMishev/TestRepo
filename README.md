@@ -10,3 +10,6 @@ Tuka pak nekvi testove pravime
 Praime si testove tuka za branchovete
 
 Tuka pak nekvi testove pravime
+
+
+testvame si git bash-a
